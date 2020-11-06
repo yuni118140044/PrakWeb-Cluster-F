@@ -1,0 +1,25 @@
+.header{
+	background-image: url(gra.jpg);
+	background-repeat: repeat-x;
+	width: all;
+	height: 200px;
+}
+.h1{
+	color: gold;
+	text-align: center;
+	padding: 90px;
+}
+.kanan{
+	background-image: url(b.jpg);
+	padding: 30px;
+}
+.kiri{
+	background-image: url(cat.jpg);
+	padding: 70px;
+
+}
+.footer{
+	text-align: center;
+	padding: 5px;
+	background-color: silver;
+}
