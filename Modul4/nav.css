@@ -1,0 +1,19 @@
+.navbar ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: powderblue;
+}
+
+.navbar li {
+  float: center;
+}
+
+.navbar li a {
+  display: block;
+  color: goldenrod;
+  text-align: center;
+  padding: 5px;
+}
+/*# sourceMappingURL=nav.css.map */
