@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,QAAQ,CAAA;EACJ,WAAW,EAAE,WAAa;CAC7B;;AACD,AAAA,OAAO,CAAA;EACH,UAAU,EAAE,KAAU;EACtB,QAAQ,EAAG,QAAQ;EACnB,WAAW,EAAE,KAAiB;EAC9B,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,MAAM;EACxB,UAAU,EAAE,MAAM;CAIrB;;AAVD,AAOI,OAPG,CAOH,CAAC,CAAA;EACG,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "operator.scss"
+    ],
+    "names": [],
+    "file": "operator.css"
+}

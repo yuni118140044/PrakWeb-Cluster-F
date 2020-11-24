@@ -1,0 +1,25 @@
+
+$colorutama : rgb(122, 212, 235);
+$bgcolor : powderblue;
+$align : center;
+
+.navbar{
+    ul{
+        list-style-type: none;
+        margin: auto;
+        padding: 0;
+        overflow: hidden;
+        background-color: $bgcolor;
+    }
+    li{
+        float: center;
+     
+    }
+    li a{
+        display: block;
+        color: goldenrod;
+        text-align: $align;
+        padding: 5px;
+    }
+  
+}

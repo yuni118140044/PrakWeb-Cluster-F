@@ -1,0 +1,10 @@
+@mixin transform($properti) {
+    padding: $properti;
+    background-color: deeppink;
+    color: aliceblue;
+    margin-left: 330px;
+    
+}
+.empat{
+    @include transform(20px);
+}

@@ -1,0 +1,10 @@
+$mycolor : rgb(95,223,255);
+$k: 90px;
+
+.nav {
+    ul{
+        color :$mycolor;
+        $k;
+
+    }
+}
