@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Biodata>
+    <name>
+        <first>Yuni</first>
+        <last> Nurdiyanti</last>
+    </name>
+
+    <sekolah>
+        <sd>negeri kopo elok</sd>
+        <smp>negeri 21 bandar lampung</smp>
+        <sma>negeri 5 vandar lampung</sma>
+    </sekolah>
+
+    <orangtua>
+        <ayah>sofian</ayah>
+        <ibu>ratma yanti</ibu>
+    </orangtua>
+
+    	<alamat>
+		<desa>sumur bangkok</desa>
+		<kecamatan>natar</kecamatan>
+		<kabupaten>Lampung Selatan</kabupaten>
+	</alamat>
+
+	<sosalMedia>
+		<facebook>Yuni Nurdiyanti</facebook>
+		<instagram>yuni_n09</instagram>
+		<github>Yuni Nurdiyanti</github>
+	</sosalMedia>
+</Biodata>

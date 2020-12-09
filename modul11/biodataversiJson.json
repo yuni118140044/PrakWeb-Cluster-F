@@ -1,0 +1,27 @@
+{
+    "Biodata"{
+        "Nama" : "Yuni Nurdiyanti",
+        "Jenis Kelamin" : "Perempuan",
+        "sekolah" : {
+            "sekolah TK" : "saraswati",
+            "sekolah SD" : "Kopo Elok",
+            "sekolah SMP" : "21 Bandar Lampung",
+            "sekolah SMA" : "5 Bandar Lampung"
+        }
+        "orang tua"{
+            "ayah" : "sofian",
+            "ibu" : "ratmayanti"
+        }
+        "hobi" : " nonton drama korea",
+        "alamat" : {
+            "desa" : "sumur bangkok",
+            "kecamatan" : "natar",
+            "kabupaten" : "lampung selatan"
+        }
+        "media sosial" :{
+            "facebook" : "yuni nurdiyanti",
+            "instagram" : "yuni_n09",
+            "github" :"yuni nurdiyanti"
+        }
+    }
+}
